@@ -1,3 +1,3 @@
-# parallax-Effect
-https://suna99.github.io/parallax-Effect
+# parallax-effect
+https://suna99.github.io/parallax-effect
 
